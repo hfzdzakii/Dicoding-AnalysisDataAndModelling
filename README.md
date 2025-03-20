@@ -13,7 +13,7 @@ Dataset that used in this project can be found [here](https://www.kaggle.com/dat
 
 Kaggle Notebook link can be found [here](https://www.kaggle.com/code/hafizhdzaki/ship-performance-clustering-data-analysis)
 
-Google Slide presentation for analysis result can be found [here (soon)](#dicoding-final-project---building-a-machine-learning-project)
+Slide presentation for analysis result can be found [here](https://drive.google.com/file/d/1qhAR0K-fXakRzVJrvmwLMLAYrSrdvQkZ/view?usp=sharing)
 
 <br>
 
